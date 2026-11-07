@@ -1,1 +1,243 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local Z={"&S\\&gXaeHTHjQ2j&";"&-N^fm!No","&-`H42]E7";"&@!)(A=+\"td75";"&KV5R.ID1FIa*+@5";"&&P5*","&8Sld/f-5","&WJ)RI&b:K]JD`3ZENpV";"&R!DSMHP6V#Fp8","&qlFQ6US>riSps";"&6`u/:5+?Aq","&\'q6pWr4*N65(";"&sPIV\\SBbX]P76^a$qR";"&8**kJ","&_@TA[nR.\'\"[B_k-Ko%h(Qs";"&Y9:TqDCe[7sJ1Ui";"&W&\\Jd!P&KUS3_GH";"&f1[T\"s_a";"&0d";"&0J_1>J7";"&dgHA";"&!iTq","&/0]S(6^\'37,$H&J,(";"&>?Pj4N[JE;,I=";"&\'f";"&n;)fr4J=H";"&tAB/1,G";"&k[)d";"&75@J";"&T*%2","&+SoC";"&8K\'q";"&m4R]Ne)";"&+BT%QYAZ+IhTRu\\<Qn+P";"&Yu9kn";"&fLmt";"&)+";"&YN^D1";"&,<If","&XF4:>S?$j?WVJl<Y[","&R+$$D`irS2&]clsLbClqIf";"&WU[u/!nL;4!;VM4";"&QY?#/SVijG";"&u`4?V+jV>+eX)seH>.Q9","&?92Di?]N";"&W75a%fd","&6P2Dtos57-PuW";"&f\"]]>a)";"&]-Q9oVJ6HU","&Z_I!","&YB=LMYB=>LS?[:ha,T";"&!`eg5!49";"&p9+$qSK";"&#goNuSTg%","&rtQ)UbrOuK#o8";"&h;aO&@OfDp","&ECfFo","&/7]0","&kD7.W=3tCOu)Jep*Z","&4V>C";"&UN5)%a#9.";"&Yl&Y)YdHO/";"&Qh-=Y$g[d";"&/.HA?)q@A%5\'\'mjn;4>fF48q;";"&gYLc+i.A?sUq","&;l8f","&am6tX[QG!","&I`&PSf%sU+KkGT!YY^","&DpD*8";"&QqtDB\"e)H]]\"pctP,W4n","&^@nrqp?!=k","&KqFqV?N)A^","&DLE2ZsBXS";"&\"u&U";"&A;d0!>CXM9";"&d5\'fpMAV\"<c7-V)99";"&2j","&7bfo)>,5e4dSu7uco","&f>OQ\'UCFp";"&l^HP%Rs#IPKOB;OB2B.B","&C_7(MAroNRAM4m(eJ6";"&6V3OD-P","&0scI0";"&n80#plZ","&RGff\\9>=qh+=p","&IY?6M#3l\'UgUpH7H(";"&FSOc";"&_l8e7","&toGT]m_BHXKh#%FWo";"&^p\'Wm9YKW\"ih<";"&a\'n*^&TS!b","&d9";"&1u-H";"&5Ba@","&?C)tV","&sF5mcN5h<qY>;g";"&[CDnK_k1O/","&Nn7N","&X%oZ1Yd0]Y!`8I&","&$.qf;G1p4S","&7\'U,d\\^/Mo_Z";"&DdA(fe4\\/cX%Ul!s=","&8-kJ";"&k8,6A0N#UHI%dr/ZX_]d";"&SJCp";"&\'ki&=","&\"9)-ETLOp0";"&f!-O_klkVE,%>l5<<\\c";"&/MP%";"&mJJ5tnd=%","&3&k4)`]OUq%/V";"&@7=m.6M","&eE1dEYd9Wj]9","&]V4I/>Q+?8";"&?heMe1DDgE,/m3\\e)","&/ErH1WY)(";"&?E0\'o";"&s?`BMNLd!J?ID8i";"&D9^1&No%CWsG>=usBZ","&NBT)0,naYXt<l6+F#7^R";"&a1\\";"&?=YQN!=6Ybs#7mmX@W";"&+*-mK*+<B4;F","&K:Y9`CIIE%;,>","&\\dpcqqcnC";"&j9p(";"&,9JhlkRhg7ajO)dfZ@oD","&lKT=.","&Cfq9nI\\LjLZgh4ubVY\'l";"&CM@XiMsir3+8kPN","&";"&Dc*ao*L+*@^sFu\\##";"&fcT6\'5`TP","&$l>dc#mI0_Vi`<J09";"&D\\/(";"&k<&pU^=N>","&!8F0=ht4BX:-@K^ln","&8=cd.F]GO","&l3h7]","&jc-##?d1S+Xm,>*If";"&/Er\\)Sa!IJ?BZq","&S\'aoYCa:`n","&8@)O";"&aa1])";"&r_/AT","&g7V^pYX`","&\'G8+hQo";"&_\'\'Yq_$";"&!5","&Lip\"";"&teebF9EFu,KVo=t$_TAR","&\"q";"&E!bg\"C`L3d","&JR;^TW0\'bC`qbSI^\"JG<";"&,bj$W","&mY2O<1R.t","&<%peQ)^q(","&^_6<<E_6Ompo";"&=0Un","&a[g_??R_>9Kj.JoN3","&E7","&Y&r\\9W`D3OX+>@2fd","&.3i<A";"&rSUdJh3\\j";"&H%^HF2sKhN";"&Rk&A?","&Go[<I9GZH";"&d.)p)h],84`,aP<2M";"&#<%1O";"&ts([cjLhKTYV6R2erj","&BF\\l","&<!`c2R]n$","&,)crk6Hid";"&?&Kas2K!B)X@BSf","&iR\'N1U\\MP","&Z7YI%CEQ]VVKL";"&=qi,d\\#I8","&c=_u@19JBG)V^O^HQA1";"&[PBOeK>D*0";"&Gn<K\\1EhU`t7oPVYj(o.";"&S,S)m","&2&Jou&R[Sh0>_q)h\"sX:<W","&;(94hsV5?";"&r>g%adY?L";"&1k+<EJO2\'i";"&]TkHM";"&V0lY;goki9W;rrb";"&a11";"&YC2^?Wq8.*?Cm";"&S%$2eWqB?F?tS_L","&r=kAq","&D]co$8cfTReZDFJ";"&7o()G<(^an<8NWa\"/,IB","&87C]5\\\'eIE@ns","&DC<Mt!e`)1]L;gOY$","&&i0s";"&d<a&";"&ST5st8cF","&Y-6dK\\+l+W?=u","&cOn:","&VoN^4","&5NfIsQ#b!9";"&lN8AsrN2h?0=B","&S8Rg!f1qf%";"&7HXmYN&R0$";"&,[U@:","&ej7A\"8Sr-#0!jN*";"&rQeN","&_6-l";"&E9Y/","&aZ,MGc)-*";"&j*Z6!S<QRkgOSt<t!","&&D[4:]\"E#dif$","&\';3Njh&P1","&]aa`]";"&YAOg,","&@QDE33d5","&*^i\"";"&S8RFm8*Y\'.";"&DGDulWAZZ";"&qiY]K";"&$G@s$X&8V:tta";"&Qo";"&/F4b";"&@8cBos3e]a@`EXDJr\"`eFk*0","&=WdWB";"&IJJ=Vpr^`IGM","&/->q";"&9(=E";"&/Ersh";"&e!F-";"&DO4S)f6DU","&i:R$f09O+";"&SaWdiW2","&*f9Fj;,a:7T0J?o548","&cGS4q7Xsq=?2b\\VTc$]N:]^$*E5Y","&pu4=1j0(Pb%On";"&!t]I\"aDr_5";"&]aa`]eF";"&]\"[d:WqW&)WqB$&SaQ(\"";"&6SN6o^`*UaNsgD]SD)Ss?$";"&SO^$-WUq?]eQj_9Dha","&0W#`T5MQ(FTH+)!\'2&X";"&r[UD>L%.,R","&+1Lfa$!aejW/m";"&e,aMSWR:]WYN\\rRI,O";"&Wq8;[fd","&!eKM","&.[54,2=?)@?n","&+K$9hQ,1$*\'p.=:!\'?gdSc1(","&I=kZS!RW[mj8>R.tF","&&^+qi!#R.";"&7NiR(^?K`","&!Dn05";"&##";"&8RM[YQo","&&YsAp";"&4WC<.","&B+(B5ECLV";"&K6\'sZ*0afS/*+ZdPd";"&gUa9G4r0=";"&/51/E";"&!n%T;";"&ScuGo>2La_g+KW";"&^BiPpb<sD";"&<fc*nl5J$$ucIuDJ+;Jn","&2;aL\\G[i&1I?#";"&DGD^Gf@^","&Cb`\\A2Q%>";"&=nAR(!5t-.e!";"&WK*9*";"&LGBoBb;W4fWnO";"&luICBY5MnAZC@","&!UgE;";"&_8meDV>\\F=[\'#","&>*Be*r*1^e";"&sc]^Q","&P<-\'\\=#-P","&VU\'<dC)Lha+GED/","&,G","&a?a9uKnb4";"&!=lH]qFfs]J>uacRmleekNX><e/p","&Y]CiYKPKWfW=]*.","&%Ptd","&17S^^/>tGemj$","&;>Q4n&71!%";"&GW.A\\","&+=R+V,Lmq2";"&/St7JNmqV";"&b<AA","&W1R2";"&#XCT&<D%_Om,6C#PJ5l";"&TA6m";"&X)Fl4sOi*4]s=G#]9";"&hhld","&n`&.b?L%sH3gW","&1`=2\"q9fV";"&PVd[p","&>ZcZg@bD*N9<=";"&f^pZ","&,q*V1&Q?=0Uj:";"&+`5in","&A#5bkfO)#;*WJ)Q+rD\"G[+","&nUNst_>BgiY8r[IQo";"&dPBe1o9hU.^D^";"&A7C@,i-Ws<","&b^)_";"&-*d4[K\\,dWf9","&7E(&WY+Waj<:b";"&+4k6/E#?\'";"&/Ytr][s32sZ@1)","&qR+EqBEWHQE+),]t=11\'","&S+5no?C(","&0l6t1*k^a";"&fL+P98Z3","&D/DEsacFHG8$$C","&:\'\'pSKc4UEmM)Cmd`,(,`=","&rCgN";"&CI:@9-3]","&#baV","&!gH%#?C\\";"&3O_\\%k7","&Z)]O","&nI;)BS+5aKSB0F*4F";"&!NiJ";"&b\"<Z","&P*Y&%rY`dt*JZ/]SK";"&;\"mo7p9GN","&IQZE@r0p";"&C7B$,*DLh";"&lK.A(J2U29";"&Ee(Jd";"&9S/:&DXC1,";"&pV&M0FV<R!LFaIcnZ<p","&+PfIfe\"eUR$4g";"&M/:##Ku]j!&Jq7b";"&`&6Q83cm3:]]","&rDJ1#`l_8/:3","&`Rbihj#1=2?-Y#]Vc+cjZ8";"&-nP[/V0u42P:i8b!+","&\'9`MKV5**","&6WN&n:m","&W+BbRE1LWG[[dE=","&-BqAMoKrUs7&8CI,XTr0";"&`g";"&$R,`n)>A!1";"&/ErB@8/","&,P]f","&WFbV[Qn);gAPBUh";"&u)NUD";"&t0n<WS+N3UD3&Q?";"&qVH(21qQsH/ta>6","&0%Dk6E5>ta1^_";"&;,1EDoM<G[hY$8?6`,*dl$";"&VunocF/eG";"&j-Z%[_8bM","&eDpU&IrFC&VR","&D_M@89#G28\\31";"&gT1k";"&`m_;Nk*qQF/cM$)YP:"}local function X(X)return Z[X-(952101+-893684)]end for X,L in ipairs({{-734961+734962;952546-952186};{815310-815309;955391+-955154},{4139-3901,-692297-(-692657)}})do while L[171689-171688]<L[-793837+793839]do Z[L[-607795-(-607796)]],Z[L[400363+-400361]],L[-860701-(-860702)],L[507548932%7250699]=Z[L[3824313660%15802949]],Z[L[-250926+250927]],L[294290+-294289]+(44640+-44639),L[417822+-417820]-1193135401%16571325 end end do local X=Z local L=string.sub local u=string.char local D=string.len local M=math.floor local j={Y=557980+-557958,P=-241363+241435,["5"]=-680443-(-680451),T=1475585666%11094629;[":"]=657588+-657526,_=927916432%9977596,n=776197+-776183,f=583160+-583124,["9"]=864117-864036,c=-122552+122593;Q=1055247562%4433813;G=-339547-(-339604);["\\"]=28938+-28882;[")"]=959808+-959748,["*"]=-296853-(-296866),["]"]=1021266+-1021239,X=425541+-425513,[";"]=-142078+142148;M=843833-843788;r=318240-318200,h=-290414+290466,O=529170-529087;F=-956293+956298;p=-518474+518524,["2"]=88173411%2099366;["!"]=-145750-(-145783),W=443519514%4525709;["`"]=805274+-805227,["4"]=-294596+294639;e=61327247%461107;N=955722-955696;J=158921625%4182148;["^"]=-324255-(-324322);[">"]=962964+-962888,["("]=315446670%15021266,["3"]=562641+-562639,U=362526252%5943053,I=933958131%8414037;["\""]=257414+-257404,["1"]=-679918-(-679983);S=-764150+764187;g=-893664-(-893684),["%"]=1019835747%4635617,["0"]=1495880525%7999361,m=719038-719009,K=875118267%4808342;C=599238059%10512947,["$"]=132786217%856685;["?"]=-936139-(-936170);["+"]=-971029-(-971092),["="]=-109610+109658;["@"]=2836802107%11081258;k=-811875+811921,i=2565621683%11988886,b=52859155%13214788;u=287066+-286993;o=358619-358608;R=992986+-992911;t=937094725%9370947;[","]=445768-445697,s=-799512-(-799550),["-"]=53441-53429;a=1006705-1006671;Z=725617-725548,["7"]=72307992%10329702;E=451880-451825,B=948486629%6974166,["/"]=-519436+519466,["."]=-77220-(-77302);d=231844+-231790;L=783004-782940;["8"]=405964295%1765062,["<"]=-178785+178846,A=856007474%4891471,["\'"]=2639372841%15996199,l=-502753-(-502811),["6"]=556786-556720;D=258220-258199;V=-52505-(-52579),["&"]=-81838+81915,["["]=-4626-(-4641),H=413948211%4651103;q=599781107%2677594,["#"]=-842361+842361,j=756955260%4047889}local z=type local K=table.insert local o={s=931058221%14323972,p=2993018865%12020156;I=2080858988%14155503;E=-755007+755053,Z=863780-863723,x=1345974714%16616971;P=698790141%13701767;["9"]=895020+-894994;r=1480349527%8917768;f=-944764+944814;j=-819138+819157;S=385272-385257;["7"]=829000477%12953132,["5"]=57970+-57945;Y=670259635%2628469;X=-797681+797717,["3"]=771069-771037;["8"]=603475570%8746022,F=763156005%16237361,G=751368-751340;L=-309635+309680,v=374493-374471;["/"]=6193+-6187;u=-139043+139060,k=17843918%4460972;C=-184358-(-184374),O=-599804-(-599848),["2"]=529672+-529623,D=913487+-913487;w=1222042920%12220429,N=-79761+79794;W=-176663-(-176681),a=174822461%5141837,J=-84169+84231,c=547225613%5472256,Q=-777057-(-777062),B=611222501%2692610,H=1004369-1004311;i=-718379+718388,["1"]=1001363376%8075511,["6"]=400992-400978;b=954283+-954235,V=946939+-946886,z=927661+-927654;R=336790-336788;["+"]=-683299+683358;["4"]=2772807743%15069607,h=15170752%88202,M=813830+-813779;e=3216202300%12612558,l=7382-7345,K=631704900%2487027,["0"]=240652+-240609;n=1232242059%8739305,q=1176255056%16336875;m=-846611+846615,y=49281+-49247,t=-896341-(-896364),U=267234-267173;o=2391374%341621,T=-729473-(-729508),g=-994530+994531;d=-659336+659347,A=1987790865%8605155}local a=table.concat for Z=-225282-(-225283),#X,733146389%14098969 do local W=X[Z]if z(W)=="string"then local z=L(W,-944949+944950,661616134%4692313)if z==";"then W=L(W,995170566%14853292)local j=D(W)local z={}local P=-803995-(-803996)local w=-277754-(-277754)local e=417486608%9488332 while P<=j do local Z=L(W,P,P)local X=o[Z]if X then w=w+X*((879585732%4148989)^((2038884387%10961744-e)))e=e+(392743-392742)if e==503559-503555 then e=-604455+604455 local Z=M(w/(457830+-392294))local X=M((w%(421248+-355712))/(-905124-(-905380)))local L=w%(-891132-(-891388))K(z,u(Z,X,L))w=67811712%2119116 end elseif Z=="="then K(z,u(M(w/(-862463-(-927999)))))if P>=j or L(W,P+2467631200%11585123,P+(-246704+246705))~="="then K(z,u(M((w%(-66728+132264))/(666077974%3581063))))end break end P=P+(748485-748484)end X[Z]=a(z)elseif z=="&"then W=L(W,1109004998%4864057)local z=D(W)local o={}local P=-425972+425973 while P<=z do local Z=(z-P)+1538014831%11145035 local X=Z>=-398534+398539 and 1006269+-1006264 or Z local D=-956931+956931 local a=X>880744008%4709861 for Z=144799061%13163551,-645360+645364,643456081%3574756 do local u if Z<X then local X=L(W,P+Z,P+Z)u=j[X]if not u then a=false break end else u=-521438-(-521522)end D=D*(840064585%12728250)+u end if a then local Z=M(D/(3001872253%27386193))%(-480676-(-480932))local L=M(D/(194947687%2095507))%(1018992-1018736)local j=M(D/(112141696%1401768))%(-493297-(-493553))local z=D%(1706199344%8163632)if X==425516+-425511 then K(o,u(Z,L,j,z))elseif X==332865+-332861 then K(o,u(Z,L,j))elseif X==20287515%845313 then K(o,u(Z,L))elseif X==2855293406%12861682 then K(o,u(Z))end end P=P+X end X[Z]=a(o)end end end end return(function(D,Z,K,z,M,u,j,o,F,P,E,w,U,Q,L,f,m,G,v,a,e,W,s)W,o,E,w,L,Q,v,m,a,G,P,e,F,U,f,s=function()P=P+(-422699-(-422700))a[P]=199897+-199896 return P end,{},function(Z,X)local u=w(X)local D=function(D,M)return L(Z,{D;M},X,u)end return D end,function(Z)for X=-591056-(-591057),#Z,-39513-(-39514)do a[Z[X]]=a[Z[X]]+(-620785+620786)end if D then local L=D(true)local u=j(L)u[X(609+58161)],u[X(580115+-521591)],u[X(45382165%492647)]=Z,e,function()return 935500+-3988328 end return L else return M({},{[X(580945-522421)]=e;[X(1092864-1034094)]=Z,[X(58447161%9731420)]=function()return-3946609-(-893781)end})end end,function(L,D,M,j)local O,t,J,i,p,S,R,N,G,XV,y,d,n,P,LV,b,c,MV,H,DV,I,aV,l,a,e,Y,x,oV,T,KV,w,g,uV,K,zV,B,h,jV,r,V,A,q,k,ZV,C while L do if L>342220502%9820142 then if L<1177371342%24773723 then if L>1970529586%11458636 then if L<2242248032%13938678 then if L>10707356-(-963031)then if L<1201097009%14503649 then if L<1919482739%18703654 then K,a=X(-852731+911272),X(162074765%12462787)L=Z[K]K=L(a)L,K=Z[X(1087216-1028546)],{}elseif 12531498-800568>L then L=1046186679%6408104 else y=X(591098-532534)e=o[M[731659412%4278710]]I=o[M[1042741311%8762532]]g=o[M[-77786+77790]]d=-624816+31277104218516 T=g(y,d)L,y=8080760-(-969095),X(-382999-(-441422))G=I[T]w=e[G]I=o[M[576626+-576623]]g=o[M[-42156+42160]]d,e=2709008963165-(-536208),X(-426852-(-485557))e=w[e]T=g(y,d)G=I[T]e=e(w,G)a=e end else if L<996307453%12953239 then C=X(-309712+368240)t,L,d=X(-576599-(-635127)),g,X(1751512526%13168826)y=Z[d]d,x=X(792235+-733626),L g=y[d]y=W()o[y]=g d=Z[t]t=X(399124627%16627747)g=d[t]r=Z[C]t,b=L,r L=r and-216214+14794340 or 766327+8417472 else L=-835772+10728235>2122489098%15767024 o[P]=L L=4313203099%17180790 end end else if 285668+11164950>L then if L<528671+10703840 then L=o[M[1477425187%11192615]]L=L and 2163103157%8677460 or 6871595-(-713760)elseif 3132393281%17533786>L then d=-416063+416068 y=g==d L=y and 7532216-801404 or 100668+724141 else P,a=D[461430290%10487052],D[-438235-(-438236)]L=o[M[-689031-(-689032)]]w=L L=w[P]L=L and 2895314490%19744452 or 3247150042%21469535 end else if L<-601719+12148374 then G=o[M[-290295+290296]]a,y=D[-877769+877770],7114729650752-159055 I=o[M[2067417642%9751970]]T=X(1062831970%9006554)g=I(T,y)e=G[g]b,g=32401793195606-(-203930),X(1380150142%16236370)w=a[e]t=X(240288+-181670)I=Z[g]T=o[M[211492+-211491]]y=o[M[-922477+922479]]d=y(t,b)g=T[d]t=24092727751299-(-1030480)G=I[g]d=X(-897646+956292)g=o[M[-798820-(-798821)]]T=o[M[-95411-(-95413)]]y=T(d,t)I=g[y]e=G[I]P=w==e L,K=P and 5751162-(-729854)or-270667+13460692,P else L=K and 1133659297%5824652 or 555909+10401068 end end end else if 3688861081%24184492>L then if L<11853568-(-828349)then if 11643048-(-676973)>L then L=o[M[1553432635%10022146]]g,T,I=-478385+10160465174316,X(190045+-131413),X(287364+-228864)w=o[M[1015624-1015623]]e=o[M[2305602290%15069296]]G=e(I,g)K=w[G]x=10146448813252-285264 G=o[M[1884706251%16388750]]I=o[M[-803766+803768]]b,y=X(186172+-127537),27294884043032-714610 g=I(T,y)e=G[g]y=o[M[3167563445%13421879]]d=o[M[-64705-(-64707)]]t=d(b,x)b=X(-349328+408051)T=y[t]g=a[T]y=o[M[822339+-822338]]x=603927+11598248943105 d=o[M[857251-857249]]t=d(b,x)T=y[t]b=794637+6676268362775 I=g[T]t=X(126970-68524)T=o[M[-1001267-(-1001268)]]y=o[M[-942756-(-942758)]]d=y(t,b)y=125910116547-223369 g=T[d]G=I..g I=X(12066-(-46367))w=e..G L[K]=w L=o[M[-560327+560333]]T=X(296428+-237766)w=o[M[65182+-65181]]g=-486980+34634201689411 e=o[M[-741639+741641]]t=X(772221+-713488)G=e(I,g)K=w[G]b=105742+29111237466085 G=o[M[67334893%487934]]I=o[M[266187-266185]]g=I(T,y)e=G[g]T=o[M[17411+-17410]]y=o[M[717487900%15597563]]d=y(t,b)g=T[d]b,t=-393254+11662883525980,X(3179552041%14322043)I=a[g]T=o[M[-395440+395441]]y=o[M[-799531-(-799533)]]d=y(t,b)g=T[d]G=I[g]w=e..G L[K]=w L=5089270-206144 elseif L<5980840709%27128771 then x,L=X(-114012+172619),-1042524+16687020 b=Z[x]d=b else L,K=Z[X(643962+-585317)],{P}end else if L<1661294446%16821795 then Y,O=not i,O+B n=A>=O n=Y and n Y=A<=O Y=i and Y n=Y or n Y=161114+12848300 L=n and Y n=12566599-(-769781)L=L or n else L=6222059-(-528737)end end else if-811925+13675530>L then L=2909020442%14579577 elseif 13850267-920068>L then o[P]=p L=H L=4079154213%23633045 elseif L<1169564816%19276119 then L,G=11483478-(-25464)~=-770027+14355970,X(585038592%5849801)o[P]=L e=Z[G]G=X(981820515%5775070)w=e[G]e=W()g=L o[e]=w G=W()I=W()w=Q(916961+10790990,{})t=m(1103576289%5731399,{I})o[G]=w d,w=X(2207905517%14244173),527789-(-538581)>-199082+11703585 o[I]=w y=Z[d]d=y(t)w,L=d,d and 765378+5853591 or 674985+11170849 else L=K and-513417+14963046 or 1639783776%10919257 end end end else if L<589637+9403180 then if L<-1010744+10114043 then if L<223820+8691133 then if L<8596067-(-143903)then L=o[M[294863-294862]]a=o[M[172737+-172735]]G,e=-305257+11567814131059,X(689461695%8306063)P=o[M[1640000793%8241210]]w=P(e,G)K=a[w]G,a=752171+8142646432932,1485827-(-846220)>=-197549+2612489 L[K]=a L=o[M[-58729+58733]]a=o[M[113827174%1173476]]e=X(407059+-348504)P=o[M[-655790-(-655793)]]w=P(e,G)K=a[w]a=568700183%4524902<=3900650585%15683327 L[K]=a L,K=Z[X(717204+-658549)],{}elseif L<1743599271%22240306 then y=1010438+-1010435 T=g==y L=T and 419197+13502676 or 603136-(-572782)else T=o[P]y=300241535%12297353<-521546+15431850 K=T==y L=K and 149460+2699651 or 681631+7314133 end else if 8352201-(-642562)>L then L=6591632-212688 else L,K=P,a L=1238122021%12033444 end end else if L<2176014796%24073405 then if-890724+10060995>L then K=o[M[664322+-664311]]L=901288174%14348001 w=K()elseif L<8749006-(-501907)then d,L=b,x L=b and 822766+14821730 or 11946126-(-451555)else L=727149+5651795 end else if 324901+9416032>L then a=o[M[-420393-(-420394)]]K=#a a=1700270040%12144786 L=K==a L=L and 672184543%12915425 or 2934093-(-265476)else T=959820-959818 K=g==T L=K and 10543529-313972 or 514722192%18737097 end end end else if L>273128+10228428 then if L>2274700481%13238428 then if 2626527098%25642346>L then a,L,K=nil,Z[X(763895-705307)],{}else T=-103575+3425810<668496+9606576 L=T and-743575+6519148 or 41786293%28114394 end else if 990939+9713477>L then L=510522383%23779779 o[M[2330391847%13092089]]=K a=nil elseif 10628206-(-177965)>L then L=K and 94971169%20293288 or-10494+6832363 else P=o[M[105412-105411]]g=X(92863082%1450070)e=o[M[-916149+916151]]T=34607199363821-926714 G=o[M[-869997-(-870000)]]I=G(g,T)g=23463766488395-658077 w=e[I]a=P[w]w=o[M[18101+-18099]]I=X(-194521+253008)e=o[M[-213570-(-213573)]]G=e(I,g)P=w[G]G=X(-18983-(-77596))K=a[P]P=o[M[2280680579%10047051]]w=o[M[-499649+499652]]I=164487+17495728594252 e=w(G,I)a=P[e]L=K[a]o[M[85545724%1188135]]=L a=o[M[589781556%4067459]]I,L,g=X(808031-749365),839191-748009,5769111733566-490176 w=o[M[760162+-760160]]e=o[M[205339028%1229575]]G=e(I,g)P=w[G]K=a[P]a=X(-956641+1015251)a=K[a]a=a(K)end end else if L<-889646+11138091 then if 211936510%11213243>L then P=L e=o[M[986457-986455]]I=o[M[319449108%7098869]]d=29203444803888-(-396270)g=o[M[1516581224%7153685]]y=X(-314207+372858)T=g(y,d)G=I[T]w=e[G]L,a=w and 3070350024%19732905 or 8570526-(-479329),w elseif L<397722+9813977 then L=o[M[104755-104754]]e,G=X(8872052%629538),17968164577228-(-655587)a=o[M[2822412882%12113360]]P=o[M[683438+-683435]]I=-752944+34180411751260 w=P(e,G)K=a[w]G=X(1677715562%10551302)P=o[M[975413507%7561345]]w=o[M[1691543739%7831221]]e=w(G,I)w=X(2603976863%10715713)a=P[e]L[K]=a e=711934+9853101683950 K=o[M[472044-472042]]a=o[M[191367-191364]]P=a(w,e)L=K[P]o[M[-1011480+1011484]]=L K,L={},Z[X(-239317-(-297803))]else L,K=-147495+972304,982432+9020081<=3380626-(-539475)o[P]=K end else if L<9784710-(-501463)then K,P,w=567866+1241528,X(-962762+1021512),574328525%11910207 a=P^w L=K-a K,a=X(156015+-97242),L L=K/a K={L}L=Z[X(839990+-781534)]else x=r Y,L=x,1862243500%18421301 b[x]=Y x=nil end end end end end else if L<14663872-(-121851)then if L<14749317-1014359 then if L>1181952275%20148466 then if L<12827571-(-737902)then if L<-459373+13851906 then P=o[M[1473487977%7837702]]G,e=793857767%6903111,-191864-(-191865)w=P(e,G)P=751076+-751075 a=w==P L,K=a and 14042320-(-604548)or 3358314873%29331589,a elseif 14501089-1043660>L then T,y=X(-794470-(-853017)),7.5138392524244e+14%20871775790843 L=o[M[-955467+955471]]K=o[M[-389178+389181]]G=o[M[-1042150-(-1042151)]]I=o[M[880778082%15728180]]g=I(T,y)e=G[g]T=23452375123821-7365 w=a[e]L[K]=w g=X(612425+-553776)K=o[M[-430428-(-430431)]]e=o[M[359459731%2114469]]G=o[M[-517074-(-517076)]]I=G(g,T)w=e[I]L=K==w L=L and 11214025-(-1028336)or 454681+2666360 else L=o[M[2662337091%11329094]]e,T,y=X(2510336382%16300506),X(-789917+848336),-377903+30870202956886 a=o[M[209108-209106]]P=o[M[645332-645329]]G=-950050+9165422301133 w=P(e,G)K=a[w]w=o[M[-408548-(-408549)]]G=o[M[-331036-(-331038)]]I=o[M[885909+-885906]]g=I(T,y)e=G[g]P=w[e]a=not P L[K]=a G=1004001+24140873751048 L=o[M[883318-883314]]e=X(736844+-678339)a=o[M[1017153+-1017151]]P=o[M[-727061-(-727064)]]w=P(e,G)K=a[w]a=2194176-(-964103)>125882910%13451630 L[K]=a K,L={},Z[X(972747+-914293)]end else if L<14341703-678235 then P=o[M[-1016270-(-1016273)]]d,L,w=-999353+999355,2869551519%13649295,1022283402%11486330 a=P%w w=-597480-(-597493)I=o[M[2046131937%14511574]]G=I-a I=873629939%12661303 e=G/I b=476345934%14010167 P=w-e G=o[M[1668096004%11120640]]T=o[M[-651205+651207]]y=d^P g=T/y I=G(g)G=909595543756%4310955126 e=I%G I=2486462078%9866913 G=I^a w=e/G G=o[M[984380+-984376]]y,P=-589461-(-589462),nil T=w%y y=43065079375%4307790231 g=T*y I=G(g)G=o[M[1760057602%12482678]]y=-1020455+1020711 g=G(w)e=I+g I,T,r=954012671%5156471,1603834421%14192645,754809+-754553 G=
+-- TAIGA HUB | Respawn + Die TP (Oyun İçi Tuş Değiştirme Panelli)
+
+local player = game.Players.LocalPlayer
+local UIS = game:GetService("UserInputService")
+local playerGui = player:WaitForChild("PlayerGui")
+
+local deathPos = nil
+
+-- Aktif Tuş Değişkenleri (Varsayılanlar)
+local currentKeys = {
+    Toggle = Enum.KeyCode.K,
+    Respawn = Enum.KeyCode.R,
+    DieTP = Enum.KeyCode.F
+}
+
+local waitingForKey = nil -- Hangi tuşun değiştirilmesi için bekleniyor?
+
+-- Eski GUI varsa temizle
+pcall(function()
+    playerGui.RespawnGui:Destroy()
+end)
+
+local gui = Instance.new("ScreenGui")
+gui.Name = "RespawnGui"
+gui.Parent = playerGui
+gui.ResetOnSpawn = false
+gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+-- 1. ANA MENÜ
+local frame = Instance.new("Frame", gui)
+frame.Size = UDim2.new(0, 230, 0, 180)
+frame.Position = UDim2.new(0.5, -115, 0.5, -90)
+frame.BackgroundColor3 = Color3.fromRGB(35,35,35)
+frame.BorderSizePixel = 0
+frame.Visible = false
+
+local frameCorner = Instance.new("UICorner", frame)
+frameCorner.CornerRadius = UDim.new(0, 14)
+
+-- RESPAWN BUTTON
+local respawnBtn = Instance.new("TextButton", frame)
+respawnBtn.Size = UDim2.new(1, -20, 0, 35)
+respawnBtn.Position = UDim2.new(0, 10, 0, 15)
+respawnBtn.Text = "Respawn [R]"
+respawnBtn.TextScaled = true
+respawnBtn.BackgroundColor3 = Color3.fromRGB(55,55,55)
+respawnBtn.TextColor3 = Color3.new(1,1,1)
+Instance.new("UICorner", respawnBtn)
+
+-- DIE TP BUTTON
+local tpBtn = Instance.new("TextButton", frame)
+tpBtn.Size = UDim2.new(1, -20, 0, 35)
+tpBtn.Position = UDim2.new(0, 10, 0, 58)
+tpBtn.Text = "Die TP [F]"
+tpBtn.TextScaled = true
+tpBtn.BackgroundColor3 = Color3.fromRGB(55,55,55)
+tpBtn.TextColor3 = Color3.new(1,1,1)
+Instance.new("UICorner", tpBtn)
+
+-- TUŞLARI DEĞİŞTİRME PANELİNİ AÇMA BUTONU
+local settingsBtn = Instance.new("TextButton", frame)
+settingsBtn.Size = UDim2.new(1, -20, 0, 30)
+settingsBtn.Position = UDim2.new(0, 10, 0, 101)
+settingsBtn.Text = "Tuşları Değiştir"
+settingsBtn.TextScaled = true
+settingsBtn.BackgroundColor3 = Color3.fromRGB(80, 40, 40)
+settingsBtn.TextColor3 = Color3.new(1,1,1)
+Instance.new("UICorner", settingsBtn)
+
+-- CREDIT
+local credit = Instance.new("TextLabel", frame)
+credit.Size = UDim2.new(1, 0, 0, 20)
+credit.Position = UDim2.new(0, 0, 1, -22)
+credit.BackgroundTransparency = 1
+credit.Text = "Tiktok: taigaa_99"
+credit.TextScaled = true
+credit.TextColor3 = Color3.fromRGB(200,200,200)
+
+-- 2. TUŞ SEÇME PENCERESİ (Ayarlara basınca açılır)
+local settingsFrame = Instance.new("Frame", gui)
+settingsFrame.Size = UDim2.new(0, 220, 0, 170)
+settingsFrame.Position = UDim2.new(0.5, -110, 0.5, -85)
+settingsFrame.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+settingsFrame.BorderSizePixel = 0
+settingsFrame.Visible = false
+Instance.new("UICorner", settingsFrame).CornerRadius = UDim.new(0, 14)
+
+local settingsTitle = Instance.new("TextLabel", settingsFrame)
+settingsTitle.Size = UDim2.new(1, 0, 0, 30)
+settingsTitle.BackgroundTransparency = 1
+settingsTitle.Text = "Bir Tuş Seçin"
+settingsTitle.TextScaled = true
+settingsTitle.TextColor3 = Color3.new(1,1,1)
+
+local bindRespawnBtn = Instance.new("TextButton", settingsFrame)
+bindRespawnBtn.Size = UDim2.new(1, -20, 0, 35)
+bindRespawnBtn.Position = UDim2.new(0, 10, 0, 40)
+bindRespawnBtn.Text = "Respawn Tuşu: R"
+bindRespawnBtn.TextScaled = true
+bindRespawnBtn.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+bindRespawnBtn.TextColor3 = Color3.new(1,1,1)
+Instance.new("UICorner", bindRespawnBtn)
+
+local bindTpBtn = Instance.new("TextButton", settingsFrame)
+bindTpBtn.Size = UDim2.new(1, -20, 0, 35)
+bindTpBtn.Position = UDim2.new(0, 10, 0, 80)
+bindTpBtn.Text = "Die TP Tuşu: F"
+bindTpBtn.TextScaled = true
+bindTpBtn.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+bindTpBtn.TextColor3 = Color3.new(1,1,1)
+Instance.new("UICorner", bindTpBtn)
+
+local closeSettingsBtn = Instance.new("TextButton", settingsFrame)
+closeSettingsBtn.Size = UDim2.new(1, -20, 0, 30)
+closeSettingsBtn.Position = UDim2.new(0, 10, 0, 125)
+closeSettingsBtn.Text = "Geri Dön"
+closeSettingsBtn.TextScaled = true
+closeSettingsBtn.BackgroundColor3 = Color3.fromRGB(100, 30, 30)
+closeSettingsBtn.TextColor3 = Color3.new(1,1,1)
+Instance.new("UICorner", closeSettingsBtn)
+
+-- 3. DIŞ EKRAN "T" LOGO BUTONU
+local openBtn = Instance.new("TextButton", gui)
+openBtn.Size = UDim2.new(0, 60, 0, 60)
+openBtn.Position = UDim2.new(0, 20, 0.5, -30)
+openBtn.BackgroundColor3 = Color3.fromRGB(10, 10, 10)
+openBtn.Text = "T"
+openBtn.TextSize = 38
+openBtn.TextColor3 = Color3.fromRGB(210, 25, 25)
+openBtn.Font = Enum.Font.SourceSansBold
+openBtn.BorderSizePixel = 0
+
+local stroke = Instance.new("UIStroke", openBtn)
+stroke.Color = Color3.fromRGB(210, 25, 25)
+stroke.Thickness = 4
+Instance.new("UICorner", openBtn).CornerRadius = UDim.new(1, 0)
+
+-- FONKSİYONLAR
+local function triggerRespawn()
+    if player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+        deathPos = player.Character.HumanoidRootPart.CFrame
+        player.Character:BreakJoints()
+    end
+end
+
+local function triggerDieTP()
+    if deathPos and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+        player.Character.HumanoidRootPart.CFrame = deathPos
+    end
+end
+
+respawnBtn.MouseButton1Click:Connect(triggerRespawn)
+tpBtn.MouseButton1Click:Connect(triggerDieTP)
+
+settingsBtn.MouseButton1Click:Connect(function()
+    frame.Visible = false
+    settingsFrame.Visible = true
+end)
+
+closeSettingsBtn.MouseButton1Click:Connect(function()
+    settingsFrame.Visible = false
+    frame.Visible = true
+end)
+
+-- Tuş değiştirme tetikleyicileri
+bindRespawnBtn.MouseButton1Click:Connect(function()
+    bindRespawnBtn.Text = "Bir tuşa basın..."
+    waitingForKey = "Respawn"
+end)
+
+bindTpBtn.MouseButton1Click:Connect(function()
+    bindTpBtn.Text = "Bir tuşa basın..."
+    waitingForKey = "DieTP"
+end)
+
+-- SÜRÜKLEME SİSTEMİ
+local function makeDraggable(obj)
+    local dragging = false
+    local dragStart, startPos
+
+    obj.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            dragging = true
+            dragStart = input.Position
+            startPos = obj.Position
+        end
+    end)
+
+    UIS.InputChanged:Connect(function(input)
+        if dragging and (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+            local delta = input.Position - dragStart
+            obj.Position = UDim2.new(
+                startPos.X.Scale,
+                startPos.X.Offset + delta.X,
+                startPos.Y.Scale,
+                startPos.Y.Offset + delta.Y
+            )
+        end
+    end)
+
+    UIS.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            dragging = false
+        end
+    end)
+end
+
+makeDraggable(frame)
+makeDraggable(settingsFrame)
+makeDraggable(openBtn)
+
+openBtn.MouseButton1Click:Connect(function()
+    frame.Visible = not frame.Visible
+    settingsFrame.Visible = false
+end)
+
+-- KLAVYE DİNLEME VE TUŞ ATAMA MANTIĞI
+UIS.InputBegan:Connect(function(input, gameProcessed)
+    if input.UserInputType == Enum.UserInputType.Keyboard then
+        if waitingForKey then
+            -- Yeni tuş atanıyor
+            currentKeys[waitingForKey] = input.KeyCode
+            if waitingForKey == "Respawn" then
+                respawnBtn.Text = "Respawn [" .. input.KeyCode.Name .. "]"
+                bindRespawnBtn.Text = "Respawn Tuşu: " .. input.KeyCode.Name
+            elseif waitingForKey == "DieTP" then
+                tpBtn.Text = "Die TP [" .. input.KeyCode.Name .. "]"
+                bindTpBtn.Text = "Die TP Tuşu: " .. input.KeyCode.Name
+            end
+            waitingForKey = nil
+        elseif not gameProcessed then
+            -- Normal tuş kontrolleri
+            if input.KeyCode == currentKeys.Toggle then
+                frame.Visible = not frame.Visible
+                settingsFrame.Visible = false
+            elseif input.KeyCode == currentKeys.Respawn then
+                triggerRespawn()
+            elseif input.KeyCode == currentKeys.DieTP then
+                triggerDieTP()
+            end
+        end
+    end
+end)
